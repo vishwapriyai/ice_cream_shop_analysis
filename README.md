@@ -4,6 +4,8 @@
 ## Overview
 This project implements a revenue prediction model for an ice cream shop based on temperature using linear regression. The model predicts the revenue generated based on the temperature input provided by the user. A Flask web application is created to allow users to input temperature and receive revenue predictions.
 
+![Screenshot of the Application](Screenshot%202025-02-11%20135611.png)
+
 ## Repository Structure
 - `IceCreamData.csv`: The dataset used for analysis.
 - `main.py`: Python script for data preprocessing and analysis.
